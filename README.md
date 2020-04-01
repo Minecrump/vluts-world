@@ -1,2 +1,6 @@
 # vluts-world
-Vanya lutsenko world backups
+
+World backups
+
+
+P. S. This is just `world` folder of the minecraft server
